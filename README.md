@@ -1,7 +1,9 @@
 # verisimilitude
 
-Truthiness demo in JavaScript 
+Truthiness in JavaScript
 
-## TODO 
 
- - Demo
+
+## To do
+
+ * implement
